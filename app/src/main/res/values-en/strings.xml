@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroids</string>
+    <string name="lblTitulo">Asteroids</string>
+    <string name="btnStart">Start</string>
+    <string name="btnConfiguracion">Configuration</string>
+    <string name="btnSalir">Exit</string>
+    <string name="btnDatos">About</string>
+</resources>
